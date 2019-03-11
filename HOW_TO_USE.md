@@ -7,7 +7,7 @@
   
   Hallo;hello!
   
-  - After you select the correct file you can customize it in the table down below. You can add or remove word and save them in the correct format with the button "Speichern"
-  - You can close the windows with the word in it, after that you can decide hwo many word should be asked and then click "Start"
-  - If you need help, press the "Hilfe" button and it will fill out the correct word
-  - At the end you see the result of the training seasson
+- After you select the correct file you can customize it in the table down below. You can add or remove word and save them in the correct format with the button "Speichern"
+- You can close the windows with the word in it, after that you can decide hwo many word should be asked and then click "Start"
+- If you need help, press the "Hilfe" button and it will fill out the correct word
+- At the end you see the result of the training seasson
